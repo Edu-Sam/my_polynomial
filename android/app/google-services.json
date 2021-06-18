@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664265089528",
+    "project_id": "my-polynomial",
+    "storage_bucket": "my-polynomial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664265089528:android:f17869cc6e1cdf50dbf60d",
+        "android_client_info": {
+          "package_name": "com.example.my_polynomial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664265089528-70no4k7k21i5g5bfp1b8cja87m6ik6dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApoKAcvmqOlemfd-JJ_mCTl0KDBE60LJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664265089528-70no4k7k21i5g5bfp1b8cja87m6ik6dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
